@@ -1,0 +1,14 @@
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarDataAccessLayer\obj\Debug\BarDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarDataAccessLayer\bin\Debug\BarDataAccessLayer.dll
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarDataAccessLayer\bin\Debug\BarDataAccessLayer.pdb
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarDataAccessLayer\bin\Debug\BarObjekti.dll
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarDataAccessLayer\bin\Debug\BarObjekti.pdb
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarDataAccessLayer\obj\Debug\BarDataAccessLayer.dll
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarDataAccessLayer\obj\Debug\BarDataAccessLayer.pdb
+C:\Users\Vlatko\Desktop\BarApplication\BarDataAccessLayer\bin\Debug\BarDataAccessLayer.dll
+C:\Users\Vlatko\Desktop\BarApplication\BarDataAccessLayer\bin\Debug\BarDataAccessLayer.pdb
+C:\Users\Vlatko\Desktop\BarApplication\BarDataAccessLayer\bin\Debug\BarObjekti.dll
+C:\Users\Vlatko\Desktop\BarApplication\BarDataAccessLayer\bin\Debug\BarObjekti.pdb
+C:\Users\Vlatko\Desktop\BarApplication\BarDataAccessLayer\obj\Debug\BarDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Vlatko\Desktop\BarApplication\BarDataAccessLayer\obj\Debug\BarDataAccessLayer.dll
+C:\Users\Vlatko\Desktop\BarApplication\BarDataAccessLayer\obj\Debug\BarDataAccessLayer.pdb
